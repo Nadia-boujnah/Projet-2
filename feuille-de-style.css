@@ -1,0 +1,35 @@
+h2{color:rgb(16, 16, 235);}
+h1{color:rgb(16, 16, 235);}
+h2{border-style:groove;}
+img{border-radius: 170px;
+    width: 150px;
+    height: auto;}
+img{position:relative;
+    top: -180px;}
+body{background-color: rgb(210, 222, 218); 
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+}
+body{text-align: left;
+    position: absolute;}
+h2{background-color: aliceblue;}
+
+.block-1{
+    width : 50vw;
+    display: flex;
+    flex-direction: column;
+}
+.block-2{
+    width : 45vw;
+    display: flex;
+    flex-direction: column;
+}
+
+.global {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    top: -165px;
+}
+h1{text-align: left;padding-left: 610px;}
+.présentation{text-align: left; padding-left: 610px;}
